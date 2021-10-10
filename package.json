@@ -1,0 +1,22 @@
+{
+  "name": "irma",
+  "version": "0.0.1",
+  "description": "is a responsive smart home interface primarily meant for tablets.",
+  "main": "index.js",
+  "scripts": {
+    "run": "parcel serve ./src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leicht-io/irma.git"
+  },
+  "author": "Christian Leicht",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leicht-io/irma/issues"
+  },
+  "homepage": "https://github.com/leicht-io/irma#readme",
+  "dependencies": {
+    "parcel": "^2.0.0-rc.0"
+  }
+}
