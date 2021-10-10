@@ -1,2 +1,1 @@
-# irma
-des
+# IRMA (generIc smaRt hoMe interfAce)
